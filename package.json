@@ -154,7 +154,7 @@
 		"url": "https://github.com/jeyllani/pinescript.git"
 	},
 	"dependencies": {
-		"chromedriver": "^96.0.0",
+		"chromedriver": "^140.0.2",
 		"selenium": "^2.20.0",
 		"selenium-webdriver": "^4.1.0"
 	}
